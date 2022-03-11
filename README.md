@@ -50,6 +50,8 @@ Contact me!
   <a href="https://linkedin.com/in/brunowedley"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"><a/> 
   <a href=mailto:brunowedley27@gmail.com?subject="Título"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div><br>
-And consider following me!
+And consider following me!<br><br>
+
+![Snake animation](https://github.com/brunowedley/brunowedley/blob/output/github-contribution-grid-snake.svg)
 
   
