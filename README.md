@@ -14,10 +14,10 @@ About me:<br>
 <div>
   <img alt="github-icon" height="30" width="30" src="https://cdn.iconscout.com/icon/free/png-256/developer-tool-1889494-1597554.png">My github stats<br><br>
   <a href="https://github.com/brunowedley">
-  <img height="180em"
+  <img height="150em"
        src="https://github-readme-stats.vercel.app/api?username=brunowedley&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"
   />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunowedley&layout=compact&theme=vision-friendly-dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunowedley&layout=compact&theme=vision-friendly-dark"/>
   </a>
   </div>
   
